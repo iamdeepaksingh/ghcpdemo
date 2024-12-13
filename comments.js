@@ -10,6 +10,7 @@
 //use comment.js as the model for comments
 //use comments as the collection in mongodb
 
+/*
 var express = require('express');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
@@ -41,3 +42,4 @@ app.post('/comments', function(req, res) {
 
 app.listen(8080);
 console.log('Server running on port 8080');
+*/
