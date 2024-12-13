@@ -43,3 +43,5 @@ app.post('/comments', function(req, res) {
 app.listen(8080);
 console.log('Server running on port 8080');
 */
+
+console.log('Create web server');
